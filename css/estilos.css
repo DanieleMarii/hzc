@@ -281,7 +281,7 @@ body {
 }
 
 .cartao__botao--play::before{
-    content: "\e90b";
+    content: "\e901";
     font-size: 24px;
 }
 
